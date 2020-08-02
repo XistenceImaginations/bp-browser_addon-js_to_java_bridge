@@ -1,0 +1,11 @@
+{
+  "name": "lab_browser_extension-js_java_bridge",
+  "version": "1.0.0",
+  "description": "Lab code for creating a bridge a js-browser-extension with a java app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K. P. Uecker (aka xistence)",
+  "license": "ISC"
+}

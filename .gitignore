@@ -1,0 +1,10 @@
+java/build
+java/build/*
+java/dist
+java/dist/*
+java/nbproject
+java/nbproject/*
+java/debug.log*
+java/error.log*
+java/manifest.mf
+java/build.xml
