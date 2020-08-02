@@ -12,6 +12,7 @@
   - For the Java-part you'll need a Java-development setup, anything up from Java 8
   and a IDE of your choice should be ok.
 
+
 ## More Information
 
 - [Extension Development](https://developer.chrome.com/extensions/overview)
